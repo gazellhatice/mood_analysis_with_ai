@@ -66,7 +66,7 @@ python main.py
 ## 👩‍🔬 Geliştirici
 
 **Hatice Gazel**  
-[LinkedIn](https://www.linkedin.com/in/gazellhatice) • [GitHub](https://github.com/gazellhatice)
+[LinkedIn](https://www.linkedin.com/in/haticegazeL) • [GitHub](https://github.com/gazellhatice)
 
 ## 📜 Lisans
 
